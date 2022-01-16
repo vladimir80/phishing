@@ -1,0 +1,15 @@
+WHITE_LIST = ""
+BLACK_LIST = ""
+
+# pickled ML algorithm
+LEARNER_PATH = ''
+
+RESULT_WHITE = 0
+RESULT_BLACK = 1
+RESULT_RE = 2
+RESULT_ML = 3
+RESULT_SKIP = 4
+
+USE_WHITE_LIST = True
+USE_BLACK_LIST = True
+USE_ML = True
